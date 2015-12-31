@@ -4,7 +4,7 @@ A launcher for the Raspberry PI Display "PCD8544 Shield" from sunfounder.
 This Launcher is written in Python.
 It's tested with a Raspberry PI B+, Raspbian and the Sundfounder Raspberry PI PCD8544 Shield.
 
- Installation:
+ ''Installation:''
  
  You have to install the python-dev package:
  
@@ -30,7 +30,7 @@ It's tested with a Raspberry PI B+, Raspbian and the Sundfounder Raspberry PI PC
   git clone https://github.com/clerie/Raspberrry-PI_Display_Launcher_PCD8544-Shield.git
   
   
- Run launcher.py
+ Run launcher.py:
  
   cd Raspberrry-PI_Display_Launcher_PCD8544-Shield
   
