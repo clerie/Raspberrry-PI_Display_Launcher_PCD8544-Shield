@@ -1,6 +1,6 @@
 import os
 
-print '=Display Komando='
+print '=Display Commander='
 os.system('sudo python launcher/welcome.py')
 print 'Type "quit" to exit.'
 print ''
