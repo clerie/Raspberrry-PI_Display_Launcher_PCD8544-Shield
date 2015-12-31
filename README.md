@@ -42,3 +42,7 @@ Go to your directory:
 The commands for the plugins are the filenames without the ending (.py)
 
 All plugins are in the `plugins` directory.
+
+### Write plugins
+
+You can write plugins too. Simply copy theese in the `plugins` directory and enjoy.
