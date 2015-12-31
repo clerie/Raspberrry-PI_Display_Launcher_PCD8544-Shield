@@ -40,3 +40,5 @@ Go to your directory:
 ### Use the launcher
 
 The commands for the plugins are the filenames without the ending (.py)
+
+All plugins are in the `plugins` directory.
