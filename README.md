@@ -26,8 +26,17 @@ It's tested with a Raspberry PI B+, Raspbian and the Sundfounder Raspberry PI PC
 
 ``` git clone https://github.com/clerie/Raspberrry-PI_Display_Launcher_PCD8544-Shield.git```
 
-### Run launcher.py:
+You had finished the installation.
 
+## Usage
+
+### Run the launcher
+
+Go to your directory:
 ``` cd Raspberrry-PI_Display_Launcher_PCD8544-Shield ```
 
 ``` sudo python launcher.py ```
+
+### Use the launcher
+
+The commands for the plugins are the filenames without the ending (.py)
