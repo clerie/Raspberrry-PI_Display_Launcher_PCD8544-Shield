@@ -14,7 +14,7 @@ It's tested with a Raspberry PI 2 B, Raspbian and the Sundfounder Raspberry PI P
 
 ``` sudo apt-get install python-dev ```
 
-### Install the Drivers for the Display (some examples included):
+### Install the drivers for the display (some examples included):
 
 ``` git clone https://github.com/adafruit/Adafruit_Nokia_LCD.git ```
 
@@ -22,11 +22,11 @@ It's tested with a Raspberry PI 2 B, Raspbian and the Sundfounder Raspberry PI P
 
 ``` sudo python setup.py install ```
 
-### Install the Python Imaging:
+### Install the python imaging:
  
 ``` sudo apt-get install python-imaging ```
 
-### Download the Launcher:
+### Download the launcher:
 
 ``` git clone https://github.com/clerie/Raspberrry-PI_Display_Launcher_PCD8544-Shield.git```
 
