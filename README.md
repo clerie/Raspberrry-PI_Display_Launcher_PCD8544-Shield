@@ -6,6 +6,10 @@ It's tested with a Raspberry PI 2 B, Raspbian and the Sundfounder Raspberry PI P
 
 ## Installation:
 
+### First, update apt-get:
+
+``` sudo apt-get update ```
+
 ### You have to install the python-dev package:
 
 ``` sudo apt-get install python-dev ```
